@@ -7,9 +7,11 @@ public class HelloJava {
 		System.out.println("Hello Java~~");
 		System.out.println("First Commit work");
 		
-		// branch Ãß°¡ ³»¿ë
+		// branch 
 		System.out.println("Second Commit work");
-
+		
+		// ì›ê²©ì €ì¥ì†Œ 
+		System.out.println("GitHub Update~~~");
 	}
 
 }
